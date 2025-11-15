@@ -102,7 +102,7 @@ The backend API will run on `http://localhost:5000`
 
 ### 📄 License
 
-This project is open source and available under the Aphacee License.
+This project is open source and available under the Aphace License.
 
 ### 👤 Author
 
