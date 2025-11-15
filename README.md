@@ -102,11 +102,11 @@ The backend API will run on `http://localhost:5000`
 
 ### 📄 License
 
-This project is open source and available under the MIT License.
+This project is open source and available under the Aphacee License.
 
 ### 👤 Author
 
-Your Name - Portfolio Website
+Oktay Evrensel
 
 ### 🤝 Contributing
 
@@ -212,11 +212,11 @@ Backend API `http://localhost:5000` adresinde çalışacaktır
 
 ### 📄 Lisans
 
-Bu proje açık kaynaklıdır ve MIT Lisansı altında mevcuttur.
+Bu proje açık kaynaklıdır ve Apache Lisansı altında mevcuttur.
 
 ### 👤 Yazar
 
-Adınız - Portfoy Web Sitesi
+Oktay Evrensel
 
 ### 🤝 Katkıda Bulunma
 
